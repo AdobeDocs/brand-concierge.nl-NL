@@ -11,12 +11,12 @@ ht-degree: 0%
 
 # Basisbegrippen voor Brand Concierge
 
-![ Brand Concierge ](/help/assets/overview/hero.png){align="center"}
+![&#x200B; Brand Concierge &#x200B;](/help/assets/overview/hero.png){align="center"}
 
 ## Documentatietype
 
-Welkom bij de documentatie van Adobe Brand Concierge. Wij hebben 2 gebieden voor documentatie, [ B2B ](./b2b/overview.md) en [ B2C ](./b2c/overview.md) en verscheidene gedeelde middelen die ongeacht het bedrijfs gebruiksgeval nuttig zullen zijn.
+Welkom bij de documentatie van Adobe Brand Concierge. Wij hebben 2 gebieden voor documentatie, [&#x200B; B2B &#x200B;](./b2b/overview.md) en [&#x200B; B2C &#x200B;](./b2c/overview.md) en verscheidene gedeelde middelen die ongeacht het bedrijfs gebruiksgeval nuttig zullen zijn.
 
 ## Instellingen
 
-Ben zeker om de [ montages ](./settings.md) sectie te bezoeken om uw Brand Concierge te verzekeren behoorlijk opstelling is geweest.
+Ben zeker om de [&#x200B; montages &#x200B;](./settings.md) sectie te bezoeken om uw Brand Concierge te verzekeren behoorlijk opstelling is geweest.

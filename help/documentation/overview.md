@@ -62,7 +62,7 @@ De homepage fungeert als centrale hub voor Brand Concierge. Op eerste login, ken
 
 **Zeer belangrijke elementen**
 
-* **de Analyse van de Gebruiker van 0} voor het eerst: Een hoogste banner met stappen aan opstelling uw klant (naam/doel, kennisbronnen, vaardigheden, merkuitdrukking).**
+* **de Analyse van de Gebruiker van 0&rbrace; voor het eerst: Een hoogste banner met stappen aan opstelling uw klant (naam/doel, kennisbronnen, vaardigheden, merkuitdrukking).**
 
 * **Beheer van de Voortgang**: Visuele indicatoren van voltooide versus in afwachting van opstellingscomponenten.
 
