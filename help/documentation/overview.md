@@ -40,7 +40,7 @@ De startpagina van Brand Concierge is ontworpen voor gebruiksgemak en efficiënt
 
 **Zeer belangrijke elementen**
 
-* **de Analyse van de Gebruiker van 0} voor het eerst: Een hoogste banner met stappen aan opstelling uw klant (naam/doel, kennisbronnen, vaardigheden, merkuitdrukking).**
+* **de Analyse van de Gebruiker van 0&rbrace; voor het eerst: Een hoogste banner met stappen aan opstelling uw klant (naam/doel, kennisbronnen, vaardigheden, merkuitdrukking).**
 * **Beheer van de Voortgang**: Visuele indicatoren van voltooide versus in afwachting van opstellingscomponenten.
 * **Inspirational Sectie**: Video&#39;s en demo&#39;s die concierge mogelijkheden tonen (b.v., productaanbevelingen).
 * **de Verbindingen van de Documentatie**: Snelle toegang tot de middelen van Experience League voor diepere technische inzichten.
