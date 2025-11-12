@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge
 description: Meer weten over Adobe Brand Concierge?
-source-git-commit: e0d40aa0cc85e87416c58729851f1c9d12c9e933
+source-git-commit: 9be88150aeae1f553f5ca2172353a72fdc0b4a7c
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Adobe Brand Concierge is een door AI aangedreven digitale metgezel die de manier
 
 ## Hoe het werkt
 
-Brand Concierge maakt gebruik van grote taalmodellen (LLM&#39;s) en integreert met de digitale ervaringsstapel van Adobe (zoals Adobe Experience Manager en Adobe Experience Platform) voor realtime, contextbewuste gesprekken. De software maakt gebruik van goedgekeurde merkinhoud, productcatalogi en andere vertrouwde bronnen, zodat alle informatie brandveilig en up-to-date is.
+Brand Concierge maakt gebruik van geavanceerde AI en maakt verbinding met Adobe-tools om handige, real-time gesprekken aan te bieden die zijn afgestemd op elke bezoeker. De software maakt gebruik van goedgekeurde merkinhoud, productcatalogi en andere vertrouwde bronnen, zodat alle informatie brandveilig en up-to-date is.
 
 * Conversational Journey: Bezoekers communiceren via natuurlijke tekst of spraak, stellen vragen, ontvangen van visuele productvergelijkingen en het onderzoeken van op maat gemaakte aanbevelingen.
 * Personalization: Het platform past zijn reacties aan met behulp van klantsignalen, eerdere interacties en gedragsgegevens (met volledige eerbiediging van privacy en naleving).
@@ -29,9 +29,9 @@ Brand Concierge maakt gebruik van grote taalmodellen (LLM&#39;s) en integreert m
 
 Adobe Brand Concierge staat op verschillende manieren los van traditionele chatbots en assistenten van derden:
 
-* Merk-Veilige, Vertrouwelijke AI: In tegenstelling tot generische conversatie AI, oppervlakken Brand Concierge slechts antwoorden en aanbevelingen die op uw geverifieerde inhoud worden gebaseerd—nooit &quot;hallucineren&quot; of vertrouwen op niet-goedgekeurde bronnen. De verkopers hebben volledige controle over toon, overseinen, en nalevingsbegeleiding.
+* Merk-Veilige, Vertrouwelijke AI: In tegenstelling tot generische conversatie AI, oppervlakken Brand Concierge slechts antwoorden en aanbevelingen op basis van uw geverifieerde inhoud. De verkopers hebben volledige controle over toon, overseinen, en nalevingsbegeleiding.
 * Verbeterde conversie en kwaliteit: door bezoekers te ontmoeten met onmiddellijke, relevante en gepersonaliseerde reacties (in plaats van statische zoekopdrachten of FAQ-pagina&#39;s), versnelt Brand Concierge de besluitvorming, verhoogt het de conversies en houdt het gebruikers betrokken bij uw eigendom van eigendommen.
-* Naadloze afhandeling door mensen: wanneer een vraag een live aanraking vereist, kan Brand Concierge het gesprek (met context) afleveren aan een verkoop- of supportagent, waarmee continuïteit en een soepele klantervaring worden gegarandeerd.
+* De aanstaande eigenschap - Naadloze Menselijke Handoff: Wanneer een vraag een levende aanraking vereist, kan Brand Concierge het gesprek (met context) aan verkoop of steunagent-verzekeren continuïteit en een vlotte klantenervaring afleveren.
 * Continue training en verbetering: elke interactie verrijkt de profielen van klanten en biedt inzichten die u kunt gebruiken. Marketers en site-eigenaars kunnen zien wat klanten vragen, feedback verzamelen en stromen optimaliseren, allemaal zonder ontwikkelaars nodig te hebben.
 * Flexibele implementatie, snelle tijd tot waarde: voeg Brand Concierge eenvoudig toe als een widget of sluit deze in via SDK op uw site of in uw app. Diepe Adobe-integratie maakt een snelle installatie mogelijk voor merken die werken met AEM, AEP of Commerce, maar het werkt ook zonder merken.
 
