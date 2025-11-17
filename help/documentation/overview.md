@@ -1,9 +1,9 @@
 ---
 title: Adobe Brand Concierge - overzicht
 description: Meer informatie over Adobe Brand Concierge, een op AI gebaseerde oplossing voor productdetectie en -betrokkenheid voor digitale eigenschappen die eigendom zijn van merken.
-source-git-commit: 4973820b87be15ff46ac053dbed79146e7043676
+source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
 workflow-type: tm+mt
-source-wordcount: '2935'
+source-wordcount: '2934'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ De startpagina van Brand Concierge is ontworpen voor gebruiksgemak en efficiënt
 
 **Zeer belangrijke elementen**
 
-* **de Analyse van de Gebruiker van 0&rbrace; voor het eerst: Een hoogste banner met stappen aan opstelling uw klant (naam/doel, kennisbronnen, vaardigheden, merkuitdrukking).**
+* **de Analyse van de Gebruiker van 0} voor het eerst: Een hoogste banner met stappen aan opstelling uw klant (naam/doel, kennisbronnen, vaardigheden, merkuitdrukking).**
 * **Beheer van de Voortgang**: Visuele indicatoren van voltooide versus in afwachting van opstellingscomponenten.
 * **Inspirational Sectie**: Video&#39;s en demo&#39;s die concierge mogelijkheden tonen (b.v., productaanbevelingen).
 * **de Verbindingen van de Documentatie**: Snelle toegang tot de middelen van Experience League voor diepere technische inzichten.
@@ -179,7 +179,7 @@ Brand Concierge stelt bedrijven met geavanceerde omzettingsmogelijkheden van AI 
 * De stem van het merk, toon, en nalevingsvereisten van de controle.
 * Prestaties bijhouden met het Customer Journey Analytics-dashboard.
 * Schakel naadloze overdracht van AI naar mens in, inclusief vergaderplanning.
-* Integreren met Adobe Experience Platform, Commerce en Experience Manager.
+* Integreren met Adobe Experience Platform en Experience Manager.
 
 ## Gebruiksscenario’s
 
