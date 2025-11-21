@@ -11,6 +11,6 @@ ht-degree: 0%
 
 # Brand Concierge B2C-documentatie
 
-![ Brand Concierge ](/help/assets/overview/hero.png){align="center"}
+![&#x200B; Brand Concierge &#x200B;](/help/assets/overview/hero.png){align="center"}
 
 Welkom bij de Adobe Brand Concierge B2C-documentatie.
