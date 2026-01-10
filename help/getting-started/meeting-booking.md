@@ -32,4 +32,4 @@ Meer informatie over het boeken van vergadermogelijkheden vindt u in Adobe Brand
 * Zie hoe snel en gemakkelijk een overdracht aan een levende agent gebeurt
 * Ontdek hoe deze hulpmiddelen worden beheerd en gevormd
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478540?captions=dut&learn=on&enablevpops)
