@@ -1,9 +1,9 @@
 ---
-title: Adobe Brand Concierge
-description: Meer weten over Adobe Brand Concierge?
-source-git-commit: 0350baa8ed2e7cd5f8a676c5eb82a165767cbf4f
+title: Documentatie en zelfstudies
+description: Leer om uw AI medewerker met gidsen voor opstelling, kennisbronnen, merkaanpassing, vergaderingen, en analyses te vormen en te optimaliseren.
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---

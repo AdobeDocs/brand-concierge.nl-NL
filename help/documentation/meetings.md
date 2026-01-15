@@ -1,10 +1,12 @@
 ---
-title: Vergaderingen in Adobe Brand Concierge
+title: Vergaderingen instellen en configureren
 description: Leer hoe u vergaderingen instelt en configureert in Adobe Brand Concierge.
-source-git-commit: 3994c9557bfed43aef9584324fe6be0f70b974dc
+level: Beginner
+role: User,Admin
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 4%
+source-wordcount: '317'
+ht-degree: 2%
 
 ---
 
@@ -18,56 +20,66 @@ Maak verbinding met uw Outlook- of Google-account en bepaal verschillende instel
 
 ### Uw agenda verbinden {#connect}
 
-1. Login aan [&#x200B; Adobe Experience Platform &#x200B;](https://experience.adobe.com/){target="_blank"}.
+1. Login aan [ Adobe Experience Platform ](https://experience.adobe.com/){target="_blank"}.
 
 1. Selecteer **[!UICONTROL Sales Qualifier]**.
 
-   ![&#x200B; homepage van Adobe Experience Platform &#x200B;](assets/meetings-connect-1.png){width="800" zoomable="yes"}
+   ![ homepage van Adobe Experience Platform ](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. Onder _Configuratie_, klik **[!UICONTROL Representative settings]**. Kies op het tabblad _[!UICONTROL Calendar configuration]_&#x200B;de gewenste kalender. In dit voorbeeld selecteren we **[!UICONTROL Outlook]**.
+1. Onder _Configuratie_, klik **[!UICONTROL Representative settings]**.
 
-   ![&#x200B; de configuratiepagina van de Kalender &#x200B;](assets/meetings-connect-2.png)
+   ![ de configuratiepagina van de Kalender ](assets/meetings-connect-2.png)
+
+   Kies op het tabblad _[!UICONTROL Calendar configuration]_de gewenste kalender. In dit voorbeeld selecteert u **[!UICONTROL Outlook]**.
 
 1. Kies een al aangemeld account of voeg een nieuw account toe.
 
-   ![&#x200B; Microsoft plukt een rekening modaal &#x200B;](assets/meetings-connect-3.png)
+   ![ Microsoft plukt een rekening modaal ](assets/meetings-connect-3.png)
 
-1. Wanneer de verbinding is voltooid, stelt u de gewenste e-mailinhoud in die naar de ontvanger wordt verzonden wanneer deze een vergadering met u boekt. U kunt ook een Microsoft Teams-vergaderingskoppeling opnemen (optioneel). Klik op **[!UICONTROL Save]** wanneer u klaar bent met de configuratie.
+1. Geef de gewenste e-mailinhoud op nadat de verbinding is voltooid.
 
-   ![&#x200B; de bevestiging e-maildetails van de vergadering &#x200B;](assets/meetings-connect-4.png)
+   Dit is de inhoud die naar de ontvanger wordt verzonden wanneer zij een vergadering met u boeken. U kunt ook een Microsoft Teams-vergaderingskoppeling opnemen (optioneel).
+
+   ![ de bevestiging e-maildetails van de vergadering ](assets/meetings-connect-4.png)
+
+1. Klik op **[!UICONTROL Save]**.
 
 ### Beschikbaarheid kalender instellen {#availability}
 
-1. Selecteer het tabblad **[!UICONTROL Calendar availability]**. 
+1. Klik op de tab **[!UICONTROL Calendar availability]** .
 
-   ![&#x200B; Lege de beschikbaarheidspagina van de Kalender &#x200B;](assets/meetings-availability-1.png)
+   ![ Lege de beschikbaarheidspagina van de Kalender ](assets/meetings-availability-1.png)
 
-1. Kies de gewenste instellingen. In dit voorbeeld kiezen we voor _[!UICONTROL Meeting Durations]_&#x200B;van 30 minuten met 15 minuten&#x200B;_[!UICONTROL Buffer Time]_ en _[!UICONTROL Minimum Notice]_&#x200B;van 2 uur. Onze beschikbaarheid is ingesteld op maandag t/m vrijdag, 8.00 - 17.00 uur PST, met een pauze van 1 uur om 12.00 uur. Klik op **[!UICONTROL Save]**&#x200B;wanneer u klaar bent met de configuratie.
+1. Kies de gewenste instellingen.
 
->[!NOTE]
->
->Om meer tijdopties toe te voegen, klik eenvoudig het plusteken pictogram (![&#x200B; plus ondertekent pictogram &#x200B;](assets/icon-plus-sign.png)).
+   In dit voorbeeld kiest u **[!UICONTROL Meeting Durations]** van 30 minuten met 15 minuten **[!UICONTROL Buffer Time]** en **[!UICONTROL Minimum Notice]** van 2 uur. De beschikbaarheid is ingesteld op maandag t/m vrijdag, 08.00 - 17.00 uur PST, met een pauze van 1 uur om 12.00 uur.
 
-![&#x200B; de beschikbaarheidspagina van de Kalender met alle gevulde gebieden &#x200B;](assets/meetings-availability-2.png)
+   >[!NOTE]
+   >
+   >Om meer tijdopties toe te voegen, klik het plusteken (![ plus signaalpictogram ](assets/icon-plus-sign.png)).
+
+   ![ de beschikbaarheidspagina van de Kalender met alle gevulde gebieden ](assets/meetings-availability-2.png)
+
+1. Klik op **[!UICONTROL Save]**.
 
 ### Representatief beheer {#representative}
 
 **Admins slechts**. Zie welke van uw vertegenwoordigers met succes hun kalender hebben aangesloten.
 
-![&#x200B; Representatieve beheerspagina &#x200B;](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![ Representatieve beheerspagina ](assets/meetings-representative-1.png){width="800" zoomable="yes"}
 
 ## Activiteiten {#activities}
 
-### Vergaderingsboekingen {#bookings}
+Klik op **[!UICONTROL Meeting bookings]** om vergaderingen te bekijken die zijn geboekt, te zien welke informatie is vastgelegd, te leren wanneer de vergadering gepland was en meer.
 
-Controleer vergaderingen die zijn geboekt, welke informatie is vastgelegd, wanneer de vergadering gepland was en meer.
+### Vergaderingspagina {#bookings}
 
-![&#x200B; pagina van de Boekingen van de Vergadering &#x200B;](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
+![ pagina van de Boekingen van de Vergadering ](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
 
 ## Analytics {#analytics}
 
-### Vergaderprestaties {#performance}
+Klik op **[!UICONTROL Meeting performance]** om verschillende analysecategorieën weer te geven, waaronder het aantal bezoekers dat om vergaderingen heeft gevraagd en het aantal dat is gemist. U kunt zien wat de trend van de vergaderingen was, wie zijn de vertegenwoordigers die de vergaderingen hebben gehouden, en nog veel meer.
 
-In _[!UICONTROL Meeting performance]_&#x200B;kunt u verschillende analysecategorieën bekijken, waaronder het aantal bezoekers dat om vergaderingen heeft verzocht, het aantal deelnemers dat is gemist, de trend van de vergaderingen, de vertegenwoordigers die de vergaderingen hebben bijgewoond, en nog veel meer.
+### Pagina Vergaderingen {#performance}
 
-![&#x200B; pagina van de Prestaties van de Vergadering &#x200B;](assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![ pagina van de Prestaties van de Vergadering ](assets/meetings-performance-1.png){width="800" zoomable="yes"}

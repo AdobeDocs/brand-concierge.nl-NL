@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 52eee4c0baf9b4d1b7d2ba57254d4e0e998e5f20
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ Meer informatie over het boeken van vergadermogelijkheden vindt u in Adobe Brand
 * Zie hoe snel en gemakkelijk een overdracht aan een levende agent gebeurt
 * Ontdek hoe deze hulpmiddelen worden beheerd en gevormd
 
->[!VIDEO](https://video.tv.adobe.com/v/3478540?captions=dut&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+
+Voor meer documentatie, zie [ Vergaderingen ](../documentation/meetings.md).
