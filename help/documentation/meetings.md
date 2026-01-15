@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Krijg om elk van uw _vergaderingen_ montages in Adobe Brand Concierge te kennen. Verbind uw kalender, plaats beschikbaarheid, meningsanalyse, en meer.
 
-Verwant: [ Boek een vergadering ](../getting-started/meeting-booking.md) video
+Verwant: [&#x200B; Boek een vergadering &#x200B;](../getting-started/meeting-booking.md) video
 
 ## Configuratie {#configuration}
 
@@ -22,27 +22,27 @@ Maak verbinding met uw Outlook- of Google-account en bepaal verschillende instel
 
 ### Uw agenda verbinden {#connect}
 
-1. Login aan [ Adobe Experience Platform ](https://experience.adobe.com/){target="_blank"}.
+1. Login aan [&#x200B; Adobe Experience Platform &#x200B;](https://experience.adobe.com/){target="_blank"}.
 
 1. Selecteer **[!UICONTROL Sales Qualifier]**.
 
-   ![ homepage van Adobe Experience Platform ](assets/meetings-connect-1.png){width="800" zoomable="yes"}
+   ![&#x200B; homepage van Adobe Experience Platform &#x200B;](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
 1. Onder _Configuratie_, klik **[!UICONTROL Representative settings]**.
 
-   ![ de configuratiepagina van de Kalender ](assets/meetings-connect-2.png)
+   ![&#x200B; de configuratiepagina van de Kalender &#x200B;](assets/meetings-connect-2.png)
 
-   Kies op het tabblad _[!UICONTROL Calendar configuration]_de gewenste kalender. In dit voorbeeld selecteert u **[!UICONTROL Outlook]**.
+   Kies op het tabblad _[!UICONTROL Calendar configuration]_&#x200B;de gewenste kalender. In dit voorbeeld selecteert u **[!UICONTROL Outlook]**.
 
 1. Kies een al aangemeld account of voeg een nieuw account toe.
 
-   ![ Microsoft plukt een rekening modaal ](assets/meetings-connect-3.png)
+   ![&#x200B; Microsoft plukt een rekening modaal &#x200B;](assets/meetings-connect-3.png)
 
 1. Geef de gewenste e-mailinhoud op nadat de verbinding is voltooid.
 
    Dit is de inhoud die naar de ontvanger wordt verzonden wanneer zij een vergadering met u boeken. U kunt ook een Microsoft Teams-vergaderingskoppeling opnemen (optioneel).
 
-   ![ de bevestiging e-maildetails van de vergadering ](assets/meetings-connect-4.png)
+   ![&#x200B; de bevestiging e-maildetails van de vergadering &#x200B;](assets/meetings-connect-4.png)
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -50,7 +50,7 @@ Maak verbinding met uw Outlook- of Google-account en bepaal verschillende instel
 
 1. Klik op de tab **[!UICONTROL Calendar availability]** .
 
-   ![ Lege de beschikbaarheidspagina van de Kalender ](assets/meetings-availability-1.png)
+   ![&#x200B; Lege de beschikbaarheidspagina van de Kalender &#x200B;](assets/meetings-availability-1.png)
 
 1. Kies de gewenste instellingen.
 
@@ -58,9 +58,9 @@ Maak verbinding met uw Outlook- of Google-account en bepaal verschillende instel
 
    >[!NOTE]
    >
-   >Om meer tijdopties toe te voegen, klik het plusteken (![ plus signaalpictogram ](assets/icon-plus-sign.png)).
+   >Om meer tijdopties toe te voegen, klik het plusteken (![&#x200B; plus signaalpictogram &#x200B;](assets/icon-plus-sign.png)).
 
-   ![ de beschikbaarheidspagina van de Kalender met alle gevulde gebieden ](assets/meetings-availability-2.png)
+   ![&#x200B; de beschikbaarheidspagina van de Kalender met alle gevulde gebieden &#x200B;](assets/meetings-availability-2.png)
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -68,7 +68,7 @@ Maak verbinding met uw Outlook- of Google-account en bepaal verschillende instel
 
 **Admins slechts**. Zie welke van uw vertegenwoordigers met succes hun kalender hebben aangesloten.
 
-![ Representatieve beheerspagina ](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![&#x200B; Representatieve beheerspagina &#x200B;](assets/meetings-representative-1.png){width="800" zoomable="yes"}
 
 ## Activiteiten {#activities}
 
@@ -76,7 +76,7 @@ Klik op **[!UICONTROL Meeting bookings]** om vergaderingen te bekijken die zijn 
 
 ### Vergaderingspagina {#bookings}
 
-![ pagina van de Boekingen van de Vergadering ](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
+![&#x200B; pagina van de Boekingen van de Vergadering &#x200B;](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
 
 ## Analytics {#analytics}
 
@@ -84,4 +84,4 @@ Klik op **[!UICONTROL Meeting performance]** om verschillende analysecategorieë
 
 ### Pagina Vergaderingen {#performance}
 
-![ pagina van de Prestaties van de Vergadering ](assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![&#x200B; pagina van de Prestaties van de Vergadering &#x200B;](assets/meetings-performance-1.png){width="800" zoomable="yes"}
