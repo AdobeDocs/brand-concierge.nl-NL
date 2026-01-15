@@ -34,4 +34,4 @@ Meer informatie over het boeken van vergadermogelijkheden vindt u in Adobe Brand
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
-Voor meer documentatie, zie [ Vergaderingen ](../documentation/meetings.md).
+Voor meer documentatie, zie [&#x200B; Vergaderingen &#x200B;](../documentation/meetings.md).
