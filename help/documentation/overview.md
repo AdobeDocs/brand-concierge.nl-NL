@@ -33,9 +33,9 @@ U kunt Brand Concierge openen vanaf het Adobe Experience Cloud-dashboard. Op een
 1. [Een conciërge maken](#homepage)
 1. [Kennisbronnen toevoegen](#knowledge-sources)
 1. [Vormen](#skills-configuration)
-1. [ specificeer uw Uitdrukking van het Merk ](#brand-expression).
+1. [&#x200B; specificeer uw Uitdrukking van het Merk &#x200B;](#brand-expression).
 
-Voor een videoleerprogramma, zie [ uw eerste samenspel ](../getting-started/create-first-concierge.md) creëren
+Voor een videoleerprogramma, zie [&#x200B; uw eerste samenspel &#x200B;](../getting-started/create-first-concierge.md) creëren
 
 In de volgende secties worden elke taak en de interfaceopties gedetailleerd beschreven.
 
@@ -49,7 +49,7 @@ Zodra de opstelling volledig is, verstrekt een configuratiesamenvatting een uitv
 
 **Zeer belangrijke elementen**
 
-* **de Analyse van de Gebruiker van 0} voor het eerst: Een hoogste banner met stappen aan opstelling uw klant (naam/doel, kennisbronnen, vaardigheden, merkuitdrukking).**
+* **de Analyse van de Gebruiker van 0&rbrace; voor het eerst: Een hoogste banner met stappen aan opstelling uw klant (naam/doel, kennisbronnen, vaardigheden, merkuitdrukking).**
 * **Beheer van de Voortgang**: Visuele indicatoren van voltooide versus in afwachting van opstellingscomponenten.
 * **Inspirational Sectie**: Video&#39;s en manifestaties die concierge mogelijkheden (bijvoorbeeld, productaanbevelingen) tonen.
 * **de Verbindingen van de Documentatie**: Snelle toegang tot de middelen van Experience League voor diepere technische inzichten.
@@ -111,13 +111,13 @@ Gebruik de [!UICONTROL Skills Configuration] interface om de deskundigheid van u
 
    Voorbeelden van vragen zijn: _wat moet de ontvanger weten over producten?_, _Welke bedrijfsregels zouden moeten worden gevolgd?_, _Welke sleutelwoorden zouden moeten worden vermeden?_
 
-1. Verbind relevante [ kennisbronnen ](#knowledge-sources).
+1. Verbind relevante [&#x200B; kennisbronnen &#x200B;](#knowledge-sources).
 1. Extra functies inschakelen (boekingen voor vergaderingen).
 1. Verzenden voor verwerking.
 
 ### Merkuitdrukking {#brand-expression}
 
-U kunt de interface van _[!UICONTROL Brand expression]_gebruiken om de persoonlijkheid en de stijl van de reacties van uw klant aan te passen. U kunt de Uitdrukking van het Merk van de opstellingsstadia of door voorproefzijbar voor aan de gang zijnde veranderingen toegang hebben.
+U kunt de interface van _[!UICONTROL Brand expression]_&#x200B;gebruiken om de persoonlijkheid en de stijl van de reacties van uw klant aan te passen. U kunt de Uitdrukking van het Merk van de opstellingsstadia of door voorproefzijbar voor aan de gang zijnde veranderingen toegang hebben.
 
 Met de optie Merkuitdrukking kunt u de schuifregelaars gebruiken om de stem- en tooninstellingen van de gebruiker aan te passen. U kunt opties selecteren zoals &quot;Friendly&quot;, &quot;Professional&quot; en &quot;Energetic&quot;. Bovendien kunt u responslengten naar wens configureren. U kunt uw conciërge instellen om korte, gemiddelde of lange output te retourneren, afhankelijk van het gezichtsvermogen van uw merk.
 
@@ -181,7 +181,7 @@ De feedbacksectie bevat verschillende belangrijke functies waarmee u de Brand Co
 
 ### Configuraties {#configurations}
 
-Het tabblad _[!UICONTROL Configurations]_is een overzichtsweergave (alleen-lezen) die u kunt gebruiken om de volledige installatie van uw contactpersoon te controleren. Dit weerspiegelt direct de Homepage na voltooiing van de aanvankelijke opstelling en verstrekt samenvattingen van uw details, kennisbronnen, vaardigheden, en gevormde uitdrukking van het Merk. U kunt deze functie als referentie gebruiken voordat u een voorbeeld weergeeft of uw contactpersoon deelt.
+Het tabblad _[!UICONTROL Configurations]_&#x200B;is een overzichtsweergave (alleen-lezen) die u kunt gebruiken om de volledige installatie van uw contactpersoon te controleren. Dit weerspiegelt direct de Homepage na voltooiing van de aanvankelijke opstelling en verstrekt samenvattingen van uw details, kennisbronnen, vaardigheden, en gevormde uitdrukking van het Merk. U kunt deze functie als referentie gebruiken voordat u een voorbeeld weergeeft of uw contactpersoon deelt.
 
 ## Wat u met Brand Concierge kunt doen
 
