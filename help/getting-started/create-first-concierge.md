@@ -34,4 +34,4 @@ Leer hoe u uw eerste Adobe Brand Concierge instelt om klanten te helpen met een 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
 
-Voor documentatie, zie [ hulp van Brand Concierge ](../documentation/overview.md).
+Voor documentatie, zie [&#x200B; hulp van Brand Concierge &#x200B;](../documentation/overview.md).
