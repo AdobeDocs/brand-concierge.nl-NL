@@ -32,6 +32,6 @@ Leer hoe u uw eerste Adobe Brand Concierge instelt om klanten te helpen met een 
 * Inhoudsbronnen verbinden voor nauwkeurige reacties
 * Hoe kan ik de stem van het merk aanpassen en de ervaring testen?
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476527/?captions=dut&learn=on&enablevpops)
 
 Voor documentatie, zie [&#x200B; hulp van Brand Concierge &#x200B;](../documentation/overview.md).
