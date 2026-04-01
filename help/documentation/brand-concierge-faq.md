@@ -3,10 +3,10 @@ title: Veelgestelde vragen
 description: Ontvang antwoorden op veelgestelde vragen over Adobe Brand Concierge.
 role: User,Admin
 level: Beginner
-source-git-commit: 0f010472e3f49c5d84e9875a33215d56e020bef8
+source-git-commit: 06911f38d17882cdae8441d5cbdbcdf786d9e6bb
 workflow-type: tm+mt
-source-wordcount: '1091'
-ht-degree: 1%
+source-wordcount: '1537'
+ht-degree: 0%
 
 ---
 
@@ -15,6 +15,10 @@ ht-degree: 1%
 Lees deze sectie voor antwoorden op veelgestelde vragen over Brand Concierge.
 
 ## Algemeen
+
+### Waarom Brand Concierge gebruiken? Welk probleem lost het op?
+
+Er wordt meer onderzoek gedaan naar externe AI-tools (bijvoorbeeld ChatGPT, Gemini) in plaats van naar merkwebsites. Bezoekers willen steeds vaker &quot;naar het punt&quot; gaan, bijvoorbeeld &quot;Vertel me over X&quot;, &quot;Kan ik Y doen?&quot; Brand Concierge helpt u dat gesprek op uw site te houden: wanneer bezoekers op uw pagina&#39;s landen (inclusief van een AI-assistent), kunnen ze het gesprek voortzetten met een medewerker die is opgeleid voor uw inhoud. U levert een consistente, on-brand ervaring in plaats van deze te verliezen aan algemene antwoorden elders.
 
 ### Hoe is Brand Concierge anders dan chatbots?
 
@@ -54,6 +58,22 @@ Alle gegevens volgen uw governanceregels.
 ### Kunnen klanten zich afmelden voor personalisatie?
 
 Ja. Klanten die weigeren ontvangen nuttige reacties zonder gedragspatronen. U configureert de afhandeling voor weigeren in overeenstemming met uw privacybeleid.
+
+### Zijn er implicaties voor toestemming of privacy?
+
+Ja. **gegevens van de Gesprek:** als het gesprek persoonlijke of identificeerbare informatie, inzameling, opslag, en gebruik uw toestemming en privacybeleid (bijvoorbeeld, GDPR, CCPA) moet naleven. **Analytics:** wanneer Concierge gebeurtenissen naar Experience Platform of analyses verzendt, kunnen die gebeurtenissen aan uw bestaande toestemming en bestuur (bijvoorbeeld, toestemmingskoorden, de etiketten van het gegevensgebruik) onderworpen zijn. We raden u aan om Concierge te behandelen zoals elke andere digitale ervaring van de eerste partij: zorg ervoor dat de machtigingsbanner en voorkeuren van uw site betrekking hebben op conversatie- en chatgegevens en -analyses en lijn de gebeurtenisgegevens af op uw toestemmingsstrategie. Juridische en compatibiliteitstoetsing voor u live gaat.
+
+## Profielen en personalisatie
+
+### Gebruikt Concierge klantprofielen (bijvoorbeeld Real-Time CDP) om reacties op maat te maken? Wat als de bezoeker een reis partway?
+
+In het huidige bereik richt Concierge zich op anonieme bezoekers: het beantwoordt vanuit het gesprek en uw kennisbank (website en catalogus), niet vanuit een live zoektocht naar identiteit of reisstatus in Real-Time CDP. De mogelijkheden van de routekaart omvatten lood het verpleegen, overdracht aan verkoop, en het opnieuw richten, die meer op bekende profielen en reiscontext zal richten. Reacties op maat maken met &quot;Heeft deze bezoeker een profiel?&quot; of &quot; waar zitten ze op reis ? &quot; is een toekomstige verbetering. Vooralsnog is de ervaring consistent voor anonieme bezoekers.
+
+## Uitvoeren en tijdlijn
+
+### Hoe lang duurt het meestal om te leven?
+
+Met parallel werk en actieve samenwerking, bereiken vele implementaties in ongeveer 6 tot 9 weken. Het stapelen kan snel beginnen zodra uw input (URLs, catalogus, merkrichtlijnen) klaar is. Na akkoord en productiesopstelling, beweegt u zich door kwaliteit het stemmen en een gecontroleerde uitrol (bijvoorbeeld, 5% toen het schrapen aan 100% over ongeveer een week).
 
 ## Configuratie en controle
 
@@ -109,6 +129,12 @@ Adobe-consultants verwerken snelle engineering op de achtergrond:
 
 Dit zorgt ervoor dat uw klant gebruikmaakt van de best-practices voor AI-snelle patronen, terwijl uw specifieke merkvereisten behouden blijven.
 
+## Merkuitdrukking en -toon
+
+### Als ik &quot;playful en enthousiast&quot;in de Uitdrukking van het Merk plaats, zal AI het overdoen?
+
+Dat kan. Sommige klanten hebben gemeld dat AI het enthousiasme over wanneer geplaatst aan &quot;playful en enthousiast&quot;neigt te overdoen - bijvoorbeeld, dubbele uitroeppunten of sterke superlatieven. Voor gereguleerd of medisch publiek (bijvoorbeeld, pharma, vroege voeding), adviseren wij het afdraaien van enthousiasme en speelsheid terwijl het houden van de toongesprek en het casual. Gebruik gematigde instellingen en stel u af op basis van feedback. Kies voor gereguleerde industrieën uit naar &quot;conversatie&quot; in plaats van &quot;enthousiast&quot;.
+
 ## Prestaties en analyses
 
 ### Hoe meet ik succes?
@@ -117,7 +143,7 @@ U kunt het succes meten met het Brand Concierge-dashboard. Gebruik het dashboard
 
 | Metrisch | Wat het traceert |
 |--------|----------------|
-| **Engagement** | Omzetvolume, sessielengte |
+| **Betrokkenheid** | Omzetvolume, sessielengte |
 | **Tevredenheid** | Sentificatiescore, feedbackscore |
 | **Omzetting** | Aankooptarieven voor steun versus niet-ondersteund |
 | **Onderwerpen** | Meest voorkomende vragen en verzoeken |
